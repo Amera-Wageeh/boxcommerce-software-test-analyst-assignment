@@ -1,0 +1,26 @@
+# IntelliJ / Eclipse / VSCode
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Maven / Gradle
+target/
+.build/
+.out/
+
+# OS
+.DS_Store
+
+# Allure
+allure-results/
+allure-report/
+
+# Logs
+logs/
+*.log
+
+# Drivers
+drivers/
